@@ -1,0 +1,51 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : morrowjo
+ Repository     : https://github.com/morrowjo/Assignment1
+ Commit         : 55bf7ed  Initial commit
+ Commit author  : morrowjo
+ Generated      : 2026-10-10 16:06:53
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-10-10 16:06:53   morrowjo
+======================================================================
+ [PASS] Python is installed                        3.15.0
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   6 new lines of output
+ [PASS] Git is installed                           git version 2.56.0.windows.2
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/morrowjo/Assignment1
+ [PASS] Your commit is pushed to GitHub            55bf7ed
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+
+
+JJJJJJJJJJJJJ   OOOOOOOOO   RRRRRRRRRRR    DD             A          NN     N
+      J         O       O   R         R    D  D         A   A        N  N   N
+      J         O       O   R         R    D    D     A       A      N   N  N
+      J         O       O   RRRRRRRRRRR    D    D     A       A      N    N N
+      J         O       O   R      R       D  D       AAAAAAAAA      N      N
+JJJJJJJ         OOOOOOOOO   R        R     DD         A       A      N      N
+======================================================================
